@@ -4,7 +4,7 @@ Disclamer: This is a project just for fun and to code a little bit. I am not usi
 
 There are to files in this project the main file and the synchronize file.
 
-HOW TO START THE PROGRAM:
+HOW TO START THE PROGRAM
 
 In the command line:
 
